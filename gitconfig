@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = justin.koslitz@gmail.com
+	name = Justin Koslitz
